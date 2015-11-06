@@ -27,7 +27,7 @@
 
 * `rm -rf` :   no seriously, remove that directly (forced)
 
-* `man` :   draws a little picture of a man
+* `man` :   this command shows you a manual of what the command does 
 
 
 
